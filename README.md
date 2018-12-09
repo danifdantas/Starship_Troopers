@@ -1,0 +1,2 @@
+# Starship_Troopers
+This project is the commemorative relaunching of the movie Starship Troopers. To celebrate the 20th anniversary of it's premiere. This project was created to be a responsive multi-page website to engage with Starship Troopers fans around the globe. It showcases a new Teaser and Trailer for the movie, a image gallery with scenes and behind the scenes moments and a page that talks about the movie storyline and the cast.
